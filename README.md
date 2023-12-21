@@ -1,5 +1,5 @@
                                                      CHENCHAIAH MEKALATHURU
-                  +1- 6055854711 | mekalathuru.chenchaiah@gmail.com | https://www.linkedin.com/in/iamchenchu/
+                          mekalathuru.chenchaiah@gmail.com | https://www.linkedin.com/in/iamchenchu/
                              Software Engineer | Machine Learning Engineer | Ex Senior Manager
                                          Graduate Student at University Of South Dakota
 
