@@ -15,6 +15,6 @@ professional growth. Eager to prove my capabilities and replicate past successes
 
 **LIBRARIES OR FRAMEWORKS :** NumPy, Pandas, Scikit-learn, TensorFlow PyTorch, Matplotlib, Flask, Express. js, Django, JUnit for Python, React.js, REST
 
-**TECHNOLOGIES :** MySQL, MongoDB, Android, Git, Docker, Kubernetes, CI/CD, MERN, AWS
+**TECHNOLOGIES :** MySQL, MongoDB, Android, Git, Docker, Kubernetes, MERN, AWS
 
-**CONCEPTS :** Algorithms, Data Structures, OOPs, Software Cycle, Agile
+**CONCEPTS :** Algorithms, Data Structures, OOPs, Software Cycle, Agile, CI/CD, Computer Architechture
