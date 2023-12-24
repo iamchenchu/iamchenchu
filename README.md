@@ -7,7 +7,8 @@
 A Seasoned senior manager with a robust background overseeing 60+ employees, I deliberately shifted from a high-paying and esteemed position
 to pursue my passion in the computer science industry. This decision, while challenging, reflects my unwavering commitment to personal and
 professional growth. Eager to prove my capabilities and replicate past successes in a new domain, I am actively seeking an opportunity to start from scratch and emerge as a hero in the ever-evolving landscape of the computer science industry.
-
+![Anurag's GitHub statsl](https://github-readme-stats.vercel.app/api?username=iamchenchu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchenchu&layout=compact)
 
 ## Skills
 
