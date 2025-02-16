@@ -1,7 +1,7 @@
                                                      CHENCHAIAH MEKALATHURU
                           mekalathuru.chenchaiah@gmail.com | https://www.linkedin.com/in/iamchenchu/
-                             Software Engineer | Machine Learning Engineer | Ex Senior Manager
-                                         Graduate Student at University Of South Dakota
+                                Data Scintist | AI/ML Engineer | Data Engineer | Ex Byju's
+                                         
 
 ## About Me
 Passionate AI/ML Engineer with 4+ years of experience in LLMs, NLP, and AI-driven search systems. At BYJU’s, optimized AI-powered search to enhance user experience and drive $600K/month revenue. As a Research Assistant at USD, explored Liquid Neural Networks for medical AI, submitting a CVPR 2025 paper. Strong in MLOps, cloud AI (AWS, GCP, Azure), and big data (PySpark, Databricks). Driven by a vision to build AI that transforms industries, automates intelligence, and shapes the future of human-machine collaboration. 🚀
