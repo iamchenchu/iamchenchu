@@ -1,4 +1,4 @@
-                                                     CHENCHAIAH MEKALATHURU
+                                                     CHENCHU REDDY
                           mekalathuru.chenchaiah@gmail.com | https://www.linkedin.com/in/iamchenchu/
                                 Data Scintist | AI/ML Engineer | Data Engineer | Ex Byju's
                                          
