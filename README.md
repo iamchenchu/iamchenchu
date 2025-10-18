@@ -11,13 +11,3 @@ Passionate AI/ML Engineer with 6+ years of experience in AI/ML models, built AI 
 
 <br clear="left" />
 
-## Skills
-**LANGUAGES :** Python, Java, C++, C, SQL, Kotlin, HTML/CSS, JavaScript
-
-**LIBRARIES OR FRAMEWORKS :** NumPy, Pandas, Scikit-learn, TensorFlow PyTorch, Matplotlib, Flask, Express. js, Django, JUnit for Python, React.js, REST
-
-**TECHNOLOGIES :** MySQL, MongoDB, Android, Git, Docker, Kubernetes, MERN, AWS
-
-**CONCEPTS :** Algorithms, Data Structures, OOPs, Software Cycle, Agile, CI/CD, Computer Architecture
-
-
